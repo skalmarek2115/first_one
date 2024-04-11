@@ -5,7 +5,7 @@ body{
 .container{
     width: 100%;
     background-color: aqua;
-    min-height: 400px;
+    min-height: 100%;
 }
 .header{
     background-color: rgb(205,0,133);
